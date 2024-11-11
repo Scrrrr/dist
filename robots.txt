@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pc-www.tpu-pc.t-kougei.ac.jp/sitemap-index.xml
